@@ -1,0 +1,24 @@
+{
+  "name": "vinli-csv-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shayneo/vinli-csv-util.git"
+  },
+  "author": "Shayne O'Sullivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shayneo/vinli-csv-util/issues"
+  },
+  "homepage": "https://github.com/shayneo/vinli-csv-util#readme",
+  "dependencies": {
+    "json2csv": "^3.7.1",
+    "lodash": "^4.16.6",
+    "request": "^2.78.0"
+  }
+}
